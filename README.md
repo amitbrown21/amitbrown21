@@ -1,5 +1,6 @@
 # 💫 About Me: 
 🔭 an Anime web shop and a special app for schools. <br>🌱 I’m currently learning flutter, angular 
+Studying CS and Asian Studies degree, can speak some Japanese. 
 
 
 ## 🌐 Socials:
